@@ -24,6 +24,5 @@ The server will now be running at http://127.0.0.1:3000, and the client (if it's
 Теперь сервер будет запущен на http://127.0.0.1:3000, а клиентская часть (если это стандартное React-приложение, созданное с помощью Create React App) на http://localhost:3000.
 
 ### Technologies and Tools (Технологии и Инструменты)
-React
+React and Javascript
 Fastify (for server part | для серверной части)
-... (any other technologies or tools you used | любые другие технологии или инструменты, которые вы использовали)
