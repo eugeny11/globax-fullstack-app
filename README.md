@@ -25,3 +25,9 @@ The server will now be running at http://127.0.0.1:3000, and the client (if it's
 ### Technologies and Tools (Технологии и Инструменты)
 React and Javascript
 Fastify (for server part)
+
+![Globax Fullstack App](src/img/image_1.png)
+
+Demonstration of search function in the data, recorded on a test server
+
+![Globax Fullstack App - Server Search Demonstration](src/img/image_2.png)
