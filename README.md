@@ -5,7 +5,7 @@ Example part of fullstack template app made for Globax company - https://globax.
 ## Installation and Running the Client
 Clone the repository
 git clone your_repository_link.git
-Navigate to the project folder and install the required dependencies (Перейдите в папку с проектом и установите необходимые зависимости):
+Navigate to the project folder and install the required dependencies
 
 cd path_to_project_folder
 npm install
@@ -15,7 +15,7 @@ Start the client (Запустите клиентскую часть):
 Navigate to the server folder
 
 cd server
-Install the required dependencies (Установите необходимые зависимости):
+Install the required dependencies
 
 npm install
 Start the server:
