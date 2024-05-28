@@ -1,5 +1,7 @@
 # Globax Fullstack app
 
+Example part of fullstack template app made for Globax company - https://globax.media
+
 ## Installation and Running the Client (Установка и Запуск Клиентской Части)
 Clone the repository (Клонируйте репозиторий):
 
