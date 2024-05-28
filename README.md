@@ -2,9 +2,8 @@
 
 Example part of fullstack template app made for Globax company - https://globax.media
 
-## Installation and Running the Client (Установка и Запуск Клиентской Части)
-Clone the repository (Клонируйте репозиторий):
-
+## Installation and Running the Client
+Clone the repository
 git clone your_repository_link.git
 Navigate to the project folder and install the required dependencies (Перейдите в папку с проектом и установите необходимые зависимости):
 
@@ -13,18 +12,16 @@ npm install
 Start the client (Запустите клиентскую часть):
 
 ## Installation and Running the Server (Установка и Запуск Серверной Части)
-Navigate to the server folder (Перейдите в папку server):
+Navigate to the server folder
 
 cd server
 Install the required dependencies (Установите необходимые зависимости):
 
 npm install
-Start the server (Запустите сервер):
+Start the server:
 
 The server will now be running at http://127.0.0.1:3000, and the client (if it's a standard React app created using Create React App) will be at http://localhost:3000.
 
-Теперь сервер будет запущен на http://127.0.0.1:3000, а клиентская часть (если это стандартное React-приложение, созданное с помощью Create React App) на http://localhost:3000.
-
 ### Technologies and Tools (Технологии и Инструменты)
 React and Javascript
-Fastify (for server part | для серверной части)
+Fastify (for server part)
